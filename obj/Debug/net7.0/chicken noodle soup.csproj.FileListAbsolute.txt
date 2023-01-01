@@ -1,0 +1,15 @@
+C:\Users\Ibrahim\Desktop\chicken noodle soup\bin\Debug\net7.0\chicken noodle soup.exe
+C:\Users\Ibrahim\Desktop\chicken noodle soup\bin\Debug\net7.0\chicken noodle soup.deps.json
+C:\Users\Ibrahim\Desktop\chicken noodle soup\bin\Debug\net7.0\chicken noodle soup.runtimeconfig.json
+C:\Users\Ibrahim\Desktop\chicken noodle soup\bin\Debug\net7.0\chicken noodle soup.dll
+C:\Users\Ibrahim\Desktop\chicken noodle soup\bin\Debug\net7.0\chicken noodle soup.pdb
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.AssemblyInfo.cs
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.dll
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\refint\chicken noodle soup.dll
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.pdb
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\chicken noodle soup.genruntimeconfig.cache
+C:\Users\Ibrahim\Desktop\chicken noodle soup\obj\Debug\net7.0\ref\chicken noodle soup.dll

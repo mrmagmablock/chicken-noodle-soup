@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "chicken noodle soup/1.0.0": {
+        "runtime": {
+          "chicken noodle soup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chicken noodle soup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
